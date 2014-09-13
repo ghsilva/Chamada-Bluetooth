@@ -6,9 +6,10 @@ package br.edu.fatec.chamada;
 import android.bluetooth.BluetoothDevice;
 
 /****************************************************************************************************
- * @author todo TESTE conflito
+ * todo TESTE conflito
  * Alteração de Leandro Grande
  *
+ * @author Teste Fabio
  ****************************************************************************************************/
 public class Aluno {
 	
